@@ -1,0 +1,894 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#background {
+	position: absolute;
+	width: 1949px;
+	height: 1097px;
+	left: -11px;
+	top: -6px;
+	overflow: visible;
+}
+#Image_1 {
+	filter: blur(3px);
+	position: absolute;
+	width: 1949px;
+	height: 1097px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	fill: rgba(0,0,0,0.478);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 11px;
+	top: 6px;
+}
+#Rectangle_2 {
+	opacity: 0.91;
+	fill: rgba(17,17,17,0.8);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 540px;
+	left: 480px;
+	top: 266px;
+}
+#JACK_WATSON {
+	left: 480px;
+	top: 201px;
+	position: absolute;
+	overflow: visible;
+	width: 367px;
+	height: 69px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Repeat_Grid_1 {
+	position: absolute;
+	width: 211px;
+	height: 133px;
+	left: 580px;
+	top: 320px;
+	overflow: hidden;
+}
+#Repeat_Grid_1_0 {
+	position: absolute;
+	width: 200px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_3 {
+	fill: rgba(17,17,17,0.729);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_1 {
+	position: absolute;
+	width: 200px;
+	height: 50px;
+	left: 0px;
+	top: 70px;
+	overflow: visible;
+}
+#Rectangle_3_p {
+	fill: rgba(17,17,17,0.729);
+}
+.Rectangle_3_p {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#MUNKANLKLI {
+	left: 590px;
+	top: 327px;
+	position: absolute;
+	overflow: hidden;
+	width: 182px;
+	height: 26px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#ID3000_PERC {
+	left: 619px;
+	top: 397px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Menuk {
+	position: absolute;
+	width: 276px;
+	height: 204px;
+	left: 548px;
+	top: 507px;
+	overflow: hidden;
+}
+#Menuk_t {
+	position: absolute;
+	width: 262px;
+	height: 81px;
+	left: 1px;
+	top: 0px;
+	overflow: visible;
+}
+#SPEEDOMETER {
+	left: 45px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 174px;
+	height: 42px;
+	text-align: center;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_4 {
+	fill: rgba(17,17,17,0.722);
+	stroke: rgba(16,7,7,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 48px;
+	left: 31px;
+	top: 33px;
+}
+#Group_49 {
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	left: 240px;
+	top: 46px;
+	overflow: visible;
+}
+#Ellipse_11 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Ellipse_11 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+#Path_43 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_43 {
+	overflow: visible;
+	position: absolute;
+	width: 7.414px;
+	height: 12.828px;
+	left: 9px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_50 {
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	left: 0px;
+	top: 46px;
+	overflow: visible;
+}
+#Ellipse_12 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Ellipse_12 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+#Path_44 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_44 {
+	overflow: visible;
+	position: absolute;
+	width: 7.414px;
+	height: 12.828px;
+	left: 8px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#FORZA_-_1 {
+	left: 77px;
+	top: 42px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Menuk_ {
+	position: absolute;
+	width: 262px;
+	height: 81px;
+	left: 1px;
+	top: 101px;
+	overflow: visible;
+}
+#GPS_HANG {
+	left: 45px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 174px;
+	height: 42px;
+	text-align: center;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_4_ {
+	fill: rgba(17,17,17,0.722);
+	stroke: rgba(16,7,7,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4_ {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 48px;
+	left: 31px;
+	top: 33px;
+}
+#Group_49_ {
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	left: 240px;
+	top: 46px;
+	overflow: visible;
+}
+#Ellipse_11_ {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Ellipse_11_ {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+#Path_43_ {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_43_ {
+	overflow: visible;
+	position: absolute;
+	width: 7.414px;
+	height: 12.828px;
+	left: 9px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_50_ {
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	left: 0px;
+	top: 46px;
+	overflow: visible;
+}
+#Ellipse_12_ba {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Ellipse_12_ba {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+#Path_44_bb {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_44_bb {
+	overflow: visible;
+	position: absolute;
+	width: 7.414px;
+	height: 12.828px;
+	left: 8px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#SICOTEN {
+	left: 84px;
+	top: 42px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Menuk_bd {
+	position: absolute;
+	width: 262px;
+	height: 81px;
+	left: 1px;
+	top: 202px;
+	overflow: visible;
+}
+#SPEEDOMETER_be {
+	left: 45px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 174px;
+	height: 42px;
+	text-align: center;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_4_bf {
+	fill: rgba(17,17,17,0.722);
+	stroke: rgba(16,7,7,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4_bf {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 48px;
+	left: 31px;
+	top: 33px;
+}
+#Group_49_bg {
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	left: 240px;
+	top: 46px;
+	overflow: visible;
+}
+#Ellipse_11_bh {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Ellipse_11_bh {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+#Path_43_bi {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_43_bi {
+	overflow: visible;
+	position: absolute;
+	width: 7.414px;
+	height: 12.828px;
+	left: 9px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_50_bj {
+	position: absolute;
+	width: 22px;
+	height: 22px;
+	left: 0px;
+	top: 46px;
+	overflow: visible;
+}
+#Ellipse_12_bk {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Ellipse_12_bk {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+#Path_44_bl {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Path_44_bl {
+	overflow: visible;
+	position: absolute;
+	width: 7.414px;
+	height: 12.828px;
+	left: 8px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#FORZA_-_1_bm {
+	left: 77px;
+	top: 42px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_5 {
+	fill: rgba(17,17,17,0.812);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 494px;
+	height: 370px;
+	left: 846px;
+	top: 320px;
+}
+#DashInfo {
+	position: absolute;
+	width: 263px;
+	height: 270px;
+	left: 881px;
+	top: 345px;
+	overflow: visible;
+}
+#ID {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 25px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#FELHASZNL_AZONOST {
+	left: 0px;
+	top: 35px;
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 25px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#FIGYELMEZTETSEK_SZMA {
+	left: 0px;
+	top: 105px;
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 25px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#KITILTSOK_SZMA {
+	left: 0px;
+	top: 140px;
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 25px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#HTRALEV_ADMINJAIL {
+	left: 0px;
+	top: 175px;
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 25px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#HTRALV_BRTN {
+	left: 0px;
+	top: 210px;
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 25px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#KARAKTER_AZONOST {
+	left: 0px;
+	top: 70px;
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 25px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#KARAKTER_LETKORA {
+	left: 0px;
+	top: 245px;
+	position: absolute;
+	overflow: visible;
+	width: 264px;
+	height: 25px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Repeat_Grid_2 {
+	position: absolute;
+	width: 34px;
+	height: 270px;
+	left: 1271px;
+	top: 345px;
+	overflow: hidden;
+}
+#Repeat_Grid_2_0 {
+	position: absolute;
+	width: 26px;
+	height: 22px;
+	left: 8px;
+	top: 3px;
+	overflow: visible;
+}
+#_11 {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 27px;
+	height: 22px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Repeat_Grid_2_1 {
+	position: absolute;
+	width: 26px;
+	height: 22px;
+	left: 8px;
+	top: 37px;
+	overflow: visible;
+}
+#ID00 {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 27px;
+	height: 22px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Repeat_Grid_2_2 {
+	position: absolute;
+	width: 26px;
+	height: 22px;
+	left: 8px;
+	top: 71px;
+	overflow: visible;
+}
+#ID00_b {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 27px;
+	height: 22px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Repeat_Grid_2_3 {
+	position: absolute;
+	width: 26px;
+	height: 22px;
+	left: 8px;
+	top: 105px;
+	overflow: visible;
+}
+#ID00_ca {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 27px;
+	height: 22px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Repeat_Grid_2_4 {
+	position: absolute;
+	width: 26px;
+	height: 22px;
+	left: 8px;
+	top: 139px;
+	overflow: visible;
+}
+#ID00_cb {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 27px;
+	height: 22px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Repeat_Grid_2_5 {
+	position: absolute;
+	width: 26px;
+	height: 22px;
+	left: 8px;
+	top: 173px;
+	overflow: visible;
+}
+#ID00_cc {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 27px;
+	height: 22px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Repeat_Grid_2_6 {
+	position: absolute;
+	width: 26px;
+	height: 22px;
+	left: 8px;
+	top: 207px;
+	overflow: visible;
+}
+#ID00_cd {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 27px;
+	height: 22px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Repeat_Grid_2_7 {
+	position: absolute;
+	width: 26px;
+	height: 22px;
+	left: 8px;
+	top: 241px;
+	overflow: visible;
+}
+#ID00_ce {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 27px;
+	height: 22px;
+	text-align: left;
+	font-family: Xaviera Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
